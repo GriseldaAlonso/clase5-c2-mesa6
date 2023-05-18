@@ -1,2 +1,3 @@
-let edad = 20;
-console.log(`Hola compañeras, mi nombre es Tatiana y tengo ${edad} años`);
+let nombre = 'Paola';
+let edad = 24;
+console.log(`Hola compañeras, mi nombre es ${nombre} y tengo ${edad} años`);
